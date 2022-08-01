@@ -1,0 +1,2 @@
+INSERT INTO BOOKS (AUTHOR, DATE, ISBN, NAME, PRICE, QUANTITY) VALUES ('J. K. Rowling', 'June 26, 1997', '0747549559', 'Harry Potter and the Philosopher''s Stone', 6.99, 10);
+INSERT INTO BOOKS (AUTHOR, DATE, ISBN, NAME, PRICE, QUANTITY) VALUES ('J. R. R. Tolkien', 'November 11, 1954', '0345339711', 'The Two Towers', 9.99, 20);
